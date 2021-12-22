@@ -1,0 +1,5 @@
+Flask
+gunicorn
+line-bot-sdk
+APScheduler
+psycopg2
